@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": "^7.1.2"
+        "php": "^9.1.2"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
